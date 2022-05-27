@@ -1,0 +1,23 @@
+segment_sources:
+  I0E4A4B2D:
+    type: origin_type
+    relation: translation
+    language: bo
+  I18B53384:
+    type: origin_type
+    relation: translation
+    language: en
+  I93D5B5E8:
+    type: origin_type
+    relation: translation
+    language: bo
+  I7BD40D7B:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  58270021de0544f29d3d18dd851b6b13:
+    I0E4A4B2D: 7b6ce5f9b51c417f922b6dfab77b2d44
+    I18B53384: 7a02f421b4324a899ee147daba23bb94
+    I93D5B5E8: 1432b16707d046f29dedb973dca9c15a
+    I7BD40D7B: aa6772243b474991bd30bcc13e044acb
